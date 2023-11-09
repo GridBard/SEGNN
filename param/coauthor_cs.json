@@ -1,0 +1,11 @@
+{
+    "learning_rate": 0.0005,
+    "num_hidden": 256,
+    "num_proj_hidden": 256,
+    "activation": "rrelu",
+    "dropout": 0.5,
+    "num_epochs": 3000,
+    "n_features": 6805,
+    "n_classes": 15,
+    "acc_threshold": 0.9
+}

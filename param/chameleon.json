@@ -1,0 +1,10 @@
+{
+    "n_features": 2325,
+    "hidden_dim" : 64,
+    "n_classes" : 5,
+    "alpha" : 0.2,
+    "dropout" : 0.5,
+    "weight_decay" : 5e-4,
+    "learning_rate": 0.01
+
+}

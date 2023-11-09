@@ -1,0 +1,10 @@
+{
+
+    "dropout": 0.5,
+    "num_epochs": 3000,
+    "n_features": 128,
+    "n_classes": 40,
+    "num_nodes": 169343,
+    "num_edges": 1166243
+
+}
